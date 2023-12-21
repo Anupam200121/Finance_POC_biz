@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Bizmetric Revenue Calculator</title>
+  <link rel="icon" type="image/x-icon" href="../templates/bizmetric-logo.jpeg">
+  <link rel="stylesheet" href="../templates/style.css" type="text/css" />
+  <script src="../templates/index22.js" defer></script>
+</head>
+
+<body>
+  <div class="container">
+    <div class="content">
+      <div class="headline">
+        <img src="../templates/bizmetric-logo.jpeg" alt="Logo" height="60" width="60" />
+        <h1 class="content-header">Bizmetric Revenue Calculator</h1>
+      </div>
+      <div class="revenue-input-fields">
+        <div class="month-dropdown">
+          <div id="dropdown-label" class="dropdown-label">
+            <p id="dropdown-label-text"></p>
+
+            <button type="button" id="dropdown-icon">🢓</button>
+
+          </div>
+          <div id="dropdown-value" class="dropdown-value hide">
+            <div class="month">
+              <input type="checkbox" id="january" name="month" value="January" />
+              <label for="january">January</label>
+            </div>
+            <div class="month">
+              <input type="checkbox" id="feburary" name="month" value="February" />
+              <label for="feburary">February</label>
+            </div>
+            <div class="month">
+              <input type="checkbox" id="march" name="month" value="March" />
+              <label for="march">March</label>
+            </div>
+            <div class="month">
+              <input type="checkbox" id="april" name="month" value="April" />
+              <label for="april">April</label>
+            </div>
+            <div class="month">
+              <input type="checkbox" id="may" name="month" value="May" />
+              <label for="may">May</label>
+            </div>
+            <div class="month">
+              <input type="checkbox" id="june" name="month" value="June" />
+              <label for="june">June</label>
+            </div>
+            <div class="month">
+              <input type="checkbox" id="july" name="month" value="July" />
+              <label for="July">July</label>
+            </div>
+            <div class="month">
+              <input type="checkbox" id="august" name="month" value="August" />
+              <label for="august">August</label>
+            </div>
+            <div class="month">
+              <input type="checkbox" id="september" name="month" value="September" />
+              <label for="september">Sept</label>
+            </div>
+            <div class="month">
+              <input type="checkbox" id="october" name="month" value="October" />
+              <label for="october">October</label>
+            </div>
+            <div class="month">
+              <input type="checkbox" id="november" name="month" value="November" />
+              <label for="november">November</label>
+            </div>
+            <div class="month">
+              <input type="checkbox" id="december" name="month" value="December" />
+              <label for="december">December</label>
+            </div>
+          </div>
+        </div>
+        <div class="file-uploader">
+          <p class="file-input-label">Upload Data File</p>
+          <div class="upload-file">
+            <input id="upload" type="file" accept=".xlsx, .xls" />
+            <button type="button" class="input-file-btn">Choose File</button>
+          </div>
+        </div>
+        <button type="button" id="generate" class="generate" onclick="onGenerateRevenue()">Generate</button>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>

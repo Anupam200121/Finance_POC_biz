@@ -1,0 +1,349 @@
+26-Oct-23 11:07 AM - INFO- main11.py::323 - index - Accessed the index route
+26-Oct-23 11:07 AM - INFO- main11.py::329 - process - Received POST request to process data
+26-Oct-23 11:07 AM - INFO- main11.py::354 - process - Create temporary directory
+26-Oct-23 11:07 AM - INFO- main11.py::46 - process_data - File reading done (Sheet1)
+26-Oct-23 11:07 AM - INFO- main11.py::364 - process - Calling function : process_data
+26-Oct-23 11:07 AM - INFO- main11.py::368 - process - Months Selected :['April', 'May', 'June']
+26-Oct-23 11:07 AM - INFO- main11.py::273 - get_employee_data_by_months - File reading done (Sheet2)
+26-Oct-23 11:07 AM - INFO- main11.py::374 - process - Calling function : get_employee_data_by_months
+26-Oct-23 11:07 AM - INFO- main11.py::544 - process - Saved and Closed Excel file
+26-Oct-23 11:07 AM - INFO- main11.py::564 - process - Removed temporary directory
+26-Oct-23 14:26 PM - INFO- main11.py::329 - process - Received POST request to process data
+26-Oct-23 14:26 PM - ERROR- main11.py::332 - process - No file Selected
+26-Oct-23 14:43 PM - INFO- main11.py::323 - index - Accessed the index route
+26-Oct-23 17:32 PM - INFO- importos.py::323 - index - Accessed the index route
+26-Oct-23 17:33 PM - INFO- importos.py::329 - process - Received POST request to process data
+26-Oct-23 17:33 PM - INFO- importos.py::354 - process - Create temporary directory
+26-Oct-23 17:33 PM - INFO- importos.py::46 - process_data - File reading done (Sheet1)
+26-Oct-23 17:33 PM - INFO- importos.py::364 - process - Calling function : process_data
+26-Oct-23 17:33 PM - INFO- importos.py::368 - process - Months Selected :['January', 'February', 'March']
+26-Oct-23 17:33 PM - INFO- importos.py::273 - get_employee_data_by_months - File reading done (Sheet2)
+26-Oct-23 17:33 PM - INFO- importos.py::374 - process - Calling function : get_employee_data_by_months
+26-Oct-23 17:33 PM - INFO- importos.py::566 - process - Removed temporary directory
+26-Oct-23 17:33 PM - INFO- importos.py::329 - process - Received POST request to process data
+26-Oct-23 17:33 PM - INFO- importos.py::354 - process - Create temporary directory
+26-Oct-23 17:33 PM - INFO- importos.py::46 - process_data - File reading done (Sheet1)
+26-Oct-23 17:33 PM - INFO- importos.py::364 - process - Calling function : process_data
+26-Oct-23 17:33 PM - INFO- importos.py::368 - process - Months Selected :['January', 'February', 'March']
+26-Oct-23 17:33 PM - INFO- importos.py::273 - get_employee_data_by_months - File reading done (Sheet2)
+26-Oct-23 17:33 PM - INFO- importos.py::374 - process - Calling function : get_employee_data_by_months
+26-Oct-23 17:33 PM - INFO- importos.py::566 - process - Removed temporary directory
+26-Oct-23 17:35 PM - INFO- importos.py::323 - index - Accessed the index route
+26-Oct-23 17:35 PM - INFO- importos.py::329 - process - Received POST request to process data
+26-Oct-23 17:35 PM - INFO- importos.py::354 - process - Create temporary directory
+26-Oct-23 17:35 PM - INFO- importos.py::46 - process_data - File reading done (Sheet1)
+26-Oct-23 17:35 PM - INFO- importos.py::364 - process - Calling function : process_data
+26-Oct-23 17:35 PM - INFO- importos.py::368 - process - Months Selected :['January', 'February', 'March']
+26-Oct-23 17:35 PM - INFO- importos.py::273 - get_employee_data_by_months - File reading done (Sheet2)
+26-Oct-23 17:35 PM - INFO- importos.py::374 - process - Calling function : get_employee_data_by_months
+26-Oct-23 17:35 PM - INFO- importos.py::546 - process - Saved and Closed Excel file
+26-Oct-23 17:35 PM - INFO- importos.py::566 - process - Removed temporary directory
+18-Dec-23 11:07 AM - INFO- main11.py::323 - index - Accessed the index route
+18-Dec-23 11:08 AM - INFO- main11.py::329 - process - Received POST request to process data
+18-Dec-23 11:08 AM - INFO- main11.py::354 - process - Create temporary directory
+18-Dec-23 11:08 AM - INFO- main11.py::46 - process_data - File reading done (Sheet1)
+18-Dec-23 11:08 AM - INFO- main11.py::364 - process - Calling function : process_data
+18-Dec-23 11:08 AM - INFO- main11.py::368 - process - Months Selected :['January', 'February']
+18-Dec-23 11:08 AM - INFO- main11.py::273 - get_employee_data_by_months - File reading done (Sheet2)
+18-Dec-23 11:08 AM - INFO- main11.py::374 - process - Calling function : get_employee_data_by_months
+18-Dec-23 11:08 AM - INFO- main11.py::544 - process - Saved and Closed Excel file
+18-Dec-23 11:08 AM - INFO- main11.py::564 - process - Removed temporary directory
+18-Dec-23 11:11 AM - INFO- importos.py::323 - index - Accessed the index route
+18-Dec-23 11:12 AM - INFO- importos.py::329 - process - Received POST request to process data
+18-Dec-23 11:12 AM - INFO- importos.py::354 - process - Create temporary directory
+18-Dec-23 11:12 AM - INFO- importos.py::46 - process_data - File reading done (Sheet1)
+18-Dec-23 11:12 AM - INFO- importos.py::364 - process - Calling function : process_data
+18-Dec-23 11:12 AM - INFO- importos.py::368 - process - Months Selected :['January', 'February']
+18-Dec-23 11:12 AM - INFO- importos.py::566 - process - Removed temporary directory
+18-Dec-23 11:12 AM - INFO- importos.py::329 - process - Received POST request to process data
+18-Dec-23 11:12 AM - INFO- importos.py::354 - process - Create temporary directory
+18-Dec-23 11:12 AM - INFO- importos.py::46 - process_data - File reading done (Sheet1)
+18-Dec-23 11:12 AM - INFO- importos.py::364 - process - Calling function : process_data
+18-Dec-23 11:12 AM - INFO- importos.py::368 - process - Months Selected :['January', 'February']
+18-Dec-23 11:12 AM - INFO- importos.py::273 - get_employee_data_by_months - File reading done (Sheet2)
+18-Dec-23 11:12 AM - INFO- importos.py::374 - process - Calling function : get_employee_data_by_months
+18-Dec-23 11:12 AM - INFO- importos.py::546 - process - Saved and Closed Excel file
+18-Dec-23 11:12 AM - INFO- importos.py::566 - process - Removed temporary directory
+18-Dec-23 11:35 AM - INFO- main11.py::323 - index - Accessed the index route
+18-Dec-23 11:36 AM - INFO- main11.py::329 - process - Received POST request to process data
+18-Dec-23 11:36 AM - INFO- main11.py::354 - process - Create temporary directory
+18-Dec-23 11:36 AM - INFO- main11.py::46 - process_data - File reading done (Sheet1)
+18-Dec-23 11:36 AM - INFO- main11.py::364 - process - Calling function : process_data
+18-Dec-23 11:36 AM - INFO- main11.py::368 - process - Months Selected :['January']
+18-Dec-23 11:36 AM - INFO- main11.py::273 - get_employee_data_by_months - File reading done (Sheet2)
+18-Dec-23 11:36 AM - INFO- main11.py::374 - process - Calling function : get_employee_data_by_months
+18-Dec-23 11:36 AM - INFO- main11.py::544 - process - Saved and Closed Excel file
+18-Dec-23 11:36 AM - INFO- main11.py::564 - process - Removed temporary directory
+18-Dec-23 11:42 AM - INFO- main11.py::323 - index - Accessed the index route
+18-Dec-23 11:45 AM - INFO- main11.py::329 - process - Received POST request to process data
+18-Dec-23 11:45 AM - INFO- main11.py::329 - process - Received POST request to process data
+18-Dec-23 11:45 AM - INFO- main11.py::329 - process - Received POST request to process data
+18-Dec-23 11:45 AM - INFO- main11.py::354 - process - Create temporary directory
+18-Dec-23 11:45 AM - INFO- main11.py::329 - process - Received POST request to process data
+18-Dec-23 11:45 AM - INFO- main11.py::354 - process - Create temporary directory
+18-Dec-23 11:45 AM - INFO- main11.py::354 - process - Create temporary directory
+18-Dec-23 11:45 AM - INFO- main11.py::354 - process - Create temporary directory
+18-Dec-23 11:45 AM - INFO- main11.py::329 - process - Received POST request to process data
+18-Dec-23 11:45 AM - INFO- main11.py::329 - process - Received POST request to process data
+18-Dec-23 11:45 AM - INFO- main11.py::354 - process - Create temporary directory
+18-Dec-23 11:45 AM - INFO- main11.py::354 - process - Create temporary directory
+18-Dec-23 11:45 AM - INFO- main11.py::46 - process_data - File reading done (Sheet1)
+18-Dec-23 11:45 AM - INFO- main11.py::46 - process_data - File reading done (Sheet1)
+18-Dec-23 11:45 AM - INFO- main11.py::46 - process_data - File reading done (Sheet1)
+18-Dec-23 11:45 AM - INFO- main11.py::46 - process_data - File reading done (Sheet1)
+18-Dec-23 11:45 AM - INFO- main11.py::46 - process_data - File reading done (Sheet1)
+18-Dec-23 11:45 AM - INFO- main11.py::46 - process_data - File reading done (Sheet1)
+18-Dec-23 11:45 AM - INFO- main11.py::364 - process - Calling function : process_data
+18-Dec-23 11:45 AM - INFO- main11.py::368 - process - Months Selected :['January']
+18-Dec-23 11:45 AM - INFO- main11.py::364 - process - Calling function : process_data
+18-Dec-23 11:45 AM - INFO- main11.py::368 - process - Months Selected :['January']
+18-Dec-23 11:45 AM - INFO- main11.py::364 - process - Calling function : process_data
+18-Dec-23 11:45 AM - INFO- main11.py::368 - process - Months Selected :['January']
+18-Dec-23 11:45 AM - INFO- main11.py::364 - process - Calling function : process_data
+18-Dec-23 11:45 AM - INFO- main11.py::368 - process - Months Selected :['January']
+18-Dec-23 11:45 AM - INFO- main11.py::364 - process - Calling function : process_data
+18-Dec-23 11:45 AM - INFO- main11.py::368 - process - Months Selected :['January']
+18-Dec-23 11:45 AM - INFO- main11.py::364 - process - Calling function : process_data
+18-Dec-23 11:45 AM - INFO- main11.py::368 - process - Months Selected :['January']
+18-Dec-23 11:45 AM - INFO- main11.py::273 - get_employee_data_by_months - File reading done (Sheet2)
+18-Dec-23 11:45 AM - INFO- main11.py::374 - process - Calling function : get_employee_data_by_months
+18-Dec-23 11:45 AM - INFO- main11.py::273 - get_employee_data_by_months - File reading done (Sheet2)
+18-Dec-23 11:45 AM - INFO- main11.py::273 - get_employee_data_by_months - File reading done (Sheet2)
+18-Dec-23 11:45 AM - INFO- main11.py::374 - process - Calling function : get_employee_data_by_months
+18-Dec-23 11:45 AM - INFO- main11.py::273 - get_employee_data_by_months - File reading done (Sheet2)
+18-Dec-23 11:45 AM - INFO- main11.py::273 - get_employee_data_by_months - File reading done (Sheet2)
+18-Dec-23 11:45 AM - INFO- main11.py::374 - process - Calling function : get_employee_data_by_months
+18-Dec-23 11:45 AM - INFO- main11.py::374 - process - Calling function : get_employee_data_by_months
+18-Dec-23 11:45 AM - INFO- main11.py::374 - process - Calling function : get_employee_data_by_months
+18-Dec-23 11:45 AM - INFO- main11.py::273 - get_employee_data_by_months - File reading done (Sheet2)
+18-Dec-23 11:45 AM - INFO- main11.py::374 - process - Calling function : get_employee_data_by_months
+18-Dec-23 11:45 AM - INFO- main11.py::544 - process - Saved and Closed Excel file
+18-Dec-23 11:45 AM - INFO- main11.py::544 - process - Saved and Closed Excel file
+18-Dec-23 11:45 AM - INFO- main11.py::544 - process - Saved and Closed Excel file
+18-Dec-23 11:45 AM - INFO- main11.py::544 - process - Saved and Closed Excel file
+18-Dec-23 11:45 AM - INFO- main11.py::564 - process - Removed temporary directory
+18-Dec-23 11:45 AM - INFO- main11.py::564 - process - Removed temporary directory
+18-Dec-23 11:45 AM - INFO- main11.py::544 - process - Saved and Closed Excel file
+18-Dec-23 11:45 AM - INFO- main11.py::564 - process - Removed temporary directory
+18-Dec-23 11:45 AM - INFO- main11.py::564 - process - Removed temporary directory
+18-Dec-23 11:45 AM - INFO- main11.py::544 - process - Saved and Closed Excel file
+18-Dec-23 11:45 AM - INFO- main11.py::564 - process - Removed temporary directory
+18-Dec-23 11:45 AM - INFO- main11.py::564 - process - Removed temporary directory
+18-Dec-23 11:45 AM - INFO- main11.py::329 - process - Received POST request to process data
+18-Dec-23 11:45 AM - INFO- main11.py::354 - process - Create temporary directory
+18-Dec-23 11:45 AM - INFO- main11.py::329 - process - Received POST request to process data
+18-Dec-23 11:45 AM - INFO- main11.py::329 - process - Received POST request to process data
+18-Dec-23 11:45 AM - INFO- main11.py::354 - process - Create temporary directory
+18-Dec-23 11:45 AM - INFO- main11.py::46 - process_data - File reading done (Sheet1)
+18-Dec-23 11:45 AM - INFO- main11.py::354 - process - Create temporary directory
+18-Dec-23 11:45 AM - INFO- main11.py::329 - process - Received POST request to process data
+18-Dec-23 11:45 AM - INFO- main11.py::354 - process - Create temporary directory
+18-Dec-23 11:45 AM - ERROR- main11.py::170 - process_data - Error: The input Excel file contains invalid content, Please select valid input file
+18-Dec-23 11:45 AM - INFO- main11.py::329 - process - Received POST request to process data
+18-Dec-23 11:45 AM - INFO- main11.py::364 - process - Calling function : process_data
+18-Dec-23 11:45 AM - ERROR- main11.py::170 - process_data - Error: The input Excel file contains invalid content, Please select valid input file
+18-Dec-23 11:45 AM - INFO- main11.py::354 - process - Create temporary directory
+18-Dec-23 11:45 AM - INFO- main11.py::368 - process - Months Selected :['January', 'February']
+18-Dec-23 11:45 AM - INFO- main11.py::364 - process - Calling function : process_data
+18-Dec-23 11:45 AM - INFO- main11.py::329 - process - Received POST request to process data
+18-Dec-23 11:45 AM - INFO- main11.py::368 - process - Months Selected :['January', 'February']
+18-Dec-23 11:45 AM - ERROR- main11.py::170 - process_data - Error: The input Excel file contains invalid content, Please select valid input file
+18-Dec-23 11:45 AM - INFO- main11.py::564 - process - Removed temporary directory
+18-Dec-23 11:45 AM - INFO- main11.py::354 - process - Create temporary directory
+18-Dec-23 11:45 AM - INFO- main11.py::364 - process - Calling function : process_data
+18-Dec-23 11:45 AM - INFO- main11.py::564 - process - Removed temporary directory
+18-Dec-23 11:45 AM - INFO- main11.py::364 - process - Calling function : process_data
+18-Dec-23 11:45 AM - INFO- main11.py::368 - process - Months Selected :['January', 'February']
+18-Dec-23 11:45 AM - INFO- main11.py::368 - process - Months Selected :['January', 'February']
+18-Dec-23 11:45 AM - INFO- main11.py::329 - process - Received POST request to process data
+18-Dec-23 11:45 AM - INFO- main11.py::564 - process - Removed temporary directory
+18-Dec-23 11:45 AM - INFO- main11.py::46 - process_data - File reading done (Sheet1)
+18-Dec-23 11:45 AM - INFO- main11.py::354 - process - Create temporary directory
+18-Dec-23 11:45 AM - ERROR- main11.py::170 - process_data - Error: The input Excel file contains invalid content, Please select valid input file
+18-Dec-23 11:45 AM - INFO- main11.py::364 - process - Calling function : process_data
+18-Dec-23 11:45 AM - INFO- main11.py::368 - process - Months Selected :['January', 'February']
+18-Dec-23 11:45 AM - INFO- main11.py::564 - process - Removed temporary directory
+18-Dec-23 11:45 AM - INFO- main11.py::364 - process - Calling function : process_data
+18-Dec-23 11:45 AM - INFO- main11.py::368 - process - Months Selected :['January', 'February']
+18-Dec-23 11:45 AM - INFO- main11.py::46 - process_data - File reading done (Sheet1)
+18-Dec-23 11:45 AM - INFO- main11.py::273 - get_employee_data_by_months - File reading done (Sheet2)
+18-Dec-23 11:45 AM - INFO- main11.py::374 - process - Calling function : get_employee_data_by_months
+18-Dec-23 11:45 AM - INFO- main11.py::273 - get_employee_data_by_months - File reading done (Sheet2)
+18-Dec-23 11:45 AM - INFO- main11.py::374 - process - Calling function : get_employee_data_by_months
+18-Dec-23 11:45 AM - INFO- main11.py::364 - process - Calling function : process_data
+18-Dec-23 11:45 AM - INFO- main11.py::368 - process - Months Selected :['January', 'February']
+18-Dec-23 11:45 AM - INFO- main11.py::273 - get_employee_data_by_months - File reading done (Sheet2)
+18-Dec-23 11:45 AM - INFO- main11.py::374 - process - Calling function : get_employee_data_by_months
+18-Dec-23 11:45 AM - INFO- main11.py::544 - process - Saved and Closed Excel file
+18-Dec-23 11:45 AM - INFO- main11.py::564 - process - Removed temporary directory
+18-Dec-23 11:45 AM - INFO- main11.py::544 - process - Saved and Closed Excel file
+18-Dec-23 11:45 AM - INFO- main11.py::564 - process - Removed temporary directory
+18-Dec-23 11:45 AM - INFO- main11.py::544 - process - Saved and Closed Excel file
+18-Dec-23 11:45 AM - INFO- main11.py::564 - process - Removed temporary directory
+18-Dec-23 11:46 AM - INFO- main11.py::323 - index - Accessed the index route
+18-Dec-23 11:46 AM - INFO- main11.py::329 - process - Received POST request to process data
+18-Dec-23 11:46 AM - INFO- main11.py::354 - process - Create temporary directory
+18-Dec-23 11:46 AM - INFO- main11.py::46 - process_data - File reading done (Sheet1)
+18-Dec-23 11:46 AM - INFO- main11.py::364 - process - Calling function : process_data
+18-Dec-23 11:46 AM - INFO- main11.py::368 - process - Months Selected :['January', 'February']
+18-Dec-23 11:46 AM - INFO- main11.py::273 - get_employee_data_by_months - File reading done (Sheet2)
+18-Dec-23 11:46 AM - INFO- main11.py::374 - process - Calling function : get_employee_data_by_months
+18-Dec-23 11:46 AM - INFO- main11.py::544 - process - Saved and Closed Excel file
+18-Dec-23 11:46 AM - INFO- main11.py::564 - process - Removed temporary directory
+18-Dec-23 11:50 AM - INFO- main11.py::329 - process - Received POST request to process data
+18-Dec-23 11:50 AM - INFO- main11.py::354 - process - Create temporary directory
+18-Dec-23 11:50 AM - INFO- main11.py::46 - process_data - File reading done (Sheet1)
+18-Dec-23 11:50 AM - INFO- main11.py::364 - process - Calling function : process_data
+18-Dec-23 11:50 AM - INFO- main11.py::368 - process - Months Selected :['January', 'February']
+18-Dec-23 11:50 AM - INFO- main11.py::273 - get_employee_data_by_months - File reading done (Sheet2)
+18-Dec-23 11:50 AM - INFO- main11.py::374 - process - Calling function : get_employee_data_by_months
+18-Dec-23 11:50 AM - INFO- main11.py::544 - process - Saved and Closed Excel file
+18-Dec-23 11:50 AM - INFO- main11.py::564 - process - Removed temporary directory
+18-Dec-23 12:31 PM - INFO- newtry.py::565 - <module> - Removed temporary directory
+18-Dec-23 12:31 PM - INFO- newtry.py::565 - <module> - Removed temporary directory
+18-Dec-23 12:31 PM - INFO- newtry.py::565 - <module> - Removed temporary directory
+18-Dec-23 12:31 PM - INFO- newtry.py::565 - <module> - Removed temporary directory
+18-Dec-23 12:31 PM - INFO- newtry.py::323 - index - Accessed the index route
+18-Dec-23 12:31 PM - INFO- newtry.py::329 - process - Received POST request to process data
+18-Dec-23 12:31 PM - INFO- newtry.py::354 - process - Create temporary directory
+18-Dec-23 12:31 PM - INFO- newtry.py::46 - process_data - File reading done (Sheet1)
+18-Dec-23 12:31 PM - INFO- newtry.py::364 - process - Calling function : process_data
+18-Dec-23 12:31 PM - INFO- newtry.py::368 - process - Months Selected :['January', 'February']
+18-Dec-23 12:31 PM - INFO- newtry.py::273 - get_employee_data_by_months - File reading done (Sheet2)
+18-Dec-23 12:31 PM - INFO- newtry.py::374 - process - Calling function : get_employee_data_by_months
+18-Dec-23 12:31 PM - INFO- newtry.py::545 - process - Saved and Closed Excel file
+18-Dec-23 12:31 PM - INFO- newtry.py::565 - <module> - Removed temporary directory
+18-Dec-23 12:31 PM - INFO- newtry.py::565 - <module> - Removed temporary directory
+18-Dec-23 12:36 PM - INFO- newtry.py::329 - process - Received POST request to process data
+18-Dec-23 12:36 PM - INFO- newtry.py::354 - process - Create temporary directory
+18-Dec-23 12:36 PM - INFO- newtry.py::46 - process_data - File reading done (Sheet1)
+18-Dec-23 12:36 PM - INFO- newtry.py::364 - process - Calling function : process_data
+18-Dec-23 12:36 PM - INFO- newtry.py::368 - process - Months Selected :['January', 'February']
+18-Dec-23 12:36 PM - INFO- newtry.py::273 - get_employee_data_by_months - File reading done (Sheet2)
+18-Dec-23 12:36 PM - INFO- newtry.py::374 - process - Calling function : get_employee_data_by_months
+18-Dec-23 12:36 PM - INFO- newtry.py::545 - process - Saved and Closed Excel file
+18-Dec-23 12:36 PM - INFO- newtry.py::329 - process - Received POST request to process data
+18-Dec-23 12:36 PM - INFO- newtry.py::354 - process - Create temporary directory
+18-Dec-23 12:36 PM - INFO- newtry.py::46 - process_data - File reading done (Sheet1)
+18-Dec-23 12:36 PM - INFO- newtry.py::364 - process - Calling function : process_data
+18-Dec-23 12:36 PM - INFO- newtry.py::368 - process - Months Selected :['January', 'February']
+18-Dec-23 12:36 PM - INFO- newtry.py::273 - get_employee_data_by_months - File reading done (Sheet2)
+18-Dec-23 12:36 PM - INFO- newtry.py::374 - process - Calling function : get_employee_data_by_months
+18-Dec-23 12:36 PM - INFO- newtry.py::545 - process - Saved and Closed Excel file
+18-Dec-23 12:38 PM - INFO- newtry.py::329 - process - Received POST request to process data
+18-Dec-23 12:38 PM - INFO- newtry.py::354 - process - Create temporary directory
+18-Dec-23 12:38 PM - INFO- newtry.py::46 - process_data - File reading done (Sheet1)
+18-Dec-23 12:38 PM - INFO- newtry.py::364 - process - Calling function : process_data
+18-Dec-23 12:38 PM - INFO- newtry.py::368 - process - Months Selected :['January', 'February']
+18-Dec-23 12:38 PM - INFO- newtry.py::273 - get_employee_data_by_months - File reading done (Sheet2)
+18-Dec-23 12:38 PM - INFO- newtry.py::374 - process - Calling function : get_employee_data_by_months
+18-Dec-23 12:38 PM - INFO- newtry.py::545 - process - Saved and Closed Excel file
+18-Dec-23 12:40 PM - INFO- newtry.py::565 - <module> - Removed temporary directory
+18-Dec-23 12:44 PM - INFO- newtry.py::565 - <module> - Removed temporary directory
+18-Dec-23 12:44 PM - INFO- newtry.py::565 - <module> - Removed temporary directory
+18-Dec-23 12:44 PM - INFO- main11.py::323 - index - Accessed the index route
+18-Dec-23 12:44 PM - INFO- main11.py::323 - index - Accessed the index route
+18-Dec-23 12:48 PM - INFO- main11.py::323 - index - Accessed the index route
+18-Dec-23 12:48 PM - INFO- newtry.py::565 - <module> - Removed temporary directory
+18-Dec-23 12:48 PM - INFO- newtry.py::565 - <module> - Removed temporary directory
+18-Dec-23 12:48 PM - INFO- newtry.py::323 - index - Accessed the index route
+18-Dec-23 12:49 PM - INFO- main11.py::323 - index - Accessed the index route
+18-Dec-23 12:51 PM - INFO- main11.py::323 - index - Accessed the index route
+18-Dec-23 12:55 PM - INFO- main11.py::323 - index - Accessed the index route
+18-Dec-23 12:55 PM - INFO- main11.py::329 - process - Received POST request to process data
+18-Dec-23 12:55 PM - INFO- main11.py::354 - process - Create temporary directory
+18-Dec-23 12:55 PM - INFO- main11.py::46 - process_data - File reading done (Sheet1)
+18-Dec-23 12:55 PM - INFO- main11.py::364 - process - Calling function : process_data
+18-Dec-23 12:55 PM - INFO- main11.py::368 - process - Months Selected :['January', 'February']
+18-Dec-23 12:55 PM - INFO- main11.py::273 - get_employee_data_by_months - File reading done (Sheet2)
+18-Dec-23 12:55 PM - INFO- main11.py::374 - process - Calling function : get_employee_data_by_months
+18-Dec-23 12:55 PM - INFO- main11.py::544 - process - Saved and Closed Excel file
+18-Dec-23 12:55 PM - INFO- main11.py::564 - process - Removed temporary directory
+18-Dec-23 12:55 PM - INFO- main11.py::323 - index - Accessed the index route
+18-Dec-23 12:56 PM - INFO- main11.py::323 - index - Accessed the index route
+18-Dec-23 12:59 PM - INFO- main11.py::323 - index - Accessed the index route
+18-Dec-23 12:59 PM - INFO- main11.py::329 - process - Received POST request to process data
+18-Dec-23 12:59 PM - INFO- main11.py::354 - process - Create temporary directory
+18-Dec-23 12:59 PM - INFO- main11.py::46 - process_data - File reading done (Sheet1)
+18-Dec-23 12:59 PM - INFO- main11.py::364 - process - Calling function : process_data
+18-Dec-23 12:59 PM - INFO- main11.py::368 - process - Months Selected :['January', 'February']
+18-Dec-23 12:59 PM - INFO- main11.py::273 - get_employee_data_by_months - File reading done (Sheet2)
+18-Dec-23 12:59 PM - INFO- main11.py::374 - process - Calling function : get_employee_data_by_months
+18-Dec-23 12:59 PM - INFO- main11.py::544 - process - Saved and Closed Excel file
+18-Dec-23 12:59 PM - INFO- main11.py::564 - process - Removed temporary directory
+18-Dec-23 13:05 PM - INFO- main11.py::323 - index - Accessed the index route
+18-Dec-23 13:05 PM - INFO- main11.py::329 - process - Received POST request to process data
+18-Dec-23 13:05 PM - INFO- main11.py::354 - process - Create temporary directory
+18-Dec-23 13:05 PM - INFO- main11.py::46 - process_data - File reading done (Sheet1)
+18-Dec-23 13:05 PM - INFO- main11.py::364 - process - Calling function : process_data
+18-Dec-23 13:05 PM - INFO- main11.py::368 - process - Months Selected :['January', 'February']
+18-Dec-23 13:05 PM - INFO- main11.py::273 - get_employee_data_by_months - File reading done (Sheet2)
+18-Dec-23 13:05 PM - INFO- main11.py::374 - process - Calling function : get_employee_data_by_months
+18-Dec-23 13:05 PM - INFO- main11.py::544 - process - Saved and Closed Excel file
+18-Dec-23 13:05 PM - INFO- main11.py::564 - process - Removed temporary directory
+18-Dec-23 14:17 PM - INFO- main11.py::323 - index - Accessed the index route
+18-Dec-23 14:17 PM - INFO- main11.py::329 - process - Received POST request to process data
+18-Dec-23 14:17 PM - INFO- main11.py::354 - process - Create temporary directory
+18-Dec-23 14:17 PM - INFO- main11.py::46 - process_data - File reading done (Sheet1)
+18-Dec-23 14:17 PM - INFO- main11.py::364 - process - Calling function : process_data
+18-Dec-23 14:17 PM - INFO- main11.py::368 - process - Months Selected :['January', 'February']
+18-Dec-23 14:17 PM - INFO- main11.py::273 - get_employee_data_by_months - File reading done (Sheet2)
+18-Dec-23 14:17 PM - INFO- main11.py::374 - process - Calling function : get_employee_data_by_months
+18-Dec-23 14:17 PM - INFO- main11.py::544 - process - Saved and Closed Excel file
+18-Dec-23 14:17 PM - INFO- main11.py::564 - process - Removed temporary directory
+18-Dec-23 14:33 PM - INFO- main11.py::323 - index - Accessed the index route
+18-Dec-23 14:34 PM - INFO- main11.py::329 - process - Received POST request to process data
+18-Dec-23 14:34 PM - INFO- main11.py::354 - process - Create temporary directory
+18-Dec-23 14:34 PM - INFO- main11.py::46 - process_data - File reading done (Sheet1)
+18-Dec-23 14:34 PM - INFO- main11.py::364 - process - Calling function : process_data
+18-Dec-23 14:34 PM - INFO- main11.py::368 - process - Months Selected :['January', 'February']
+18-Dec-23 14:34 PM - INFO- main11.py::273 - get_employee_data_by_months - File reading done (Sheet2)
+18-Dec-23 14:34 PM - INFO- main11.py::374 - process - Calling function : get_employee_data_by_months
+18-Dec-23 14:34 PM - INFO- main11.py::544 - process - Saved and Closed Excel file
+18-Dec-23 14:34 PM - INFO- main11.py::564 - process - Removed temporary directory
+18-Dec-23 15:05 PM - INFO- main11.py::323 - index - Accessed the index route
+18-Dec-23 15:06 PM - INFO- main11.py::329 - process - Received POST request to process data
+18-Dec-23 15:06 PM - INFO- main11.py::354 - process - Create temporary directory
+18-Dec-23 15:06 PM - INFO- main11.py::46 - process_data - File reading done (Sheet1)
+18-Dec-23 15:06 PM - INFO- main11.py::364 - process - Calling function : process_data
+18-Dec-23 15:06 PM - INFO- main11.py::368 - process - Months Selected :['January', 'February']
+18-Dec-23 15:06 PM - INFO- main11.py::273 - get_employee_data_by_months - File reading done (Sheet2)
+18-Dec-23 15:06 PM - INFO- main11.py::374 - process - Calling function : get_employee_data_by_months
+18-Dec-23 15:06 PM - INFO- main11.py::544 - process - Saved and Closed Excel file
+18-Dec-23 15:06 PM - INFO- main11.py::564 - process - Removed temporary directory
+18-Dec-23 15:07 PM - INFO- main11.py::323 - index - Accessed the index route
+18-Dec-23 15:08 PM - INFO- main11.py::329 - process - Received POST request to process data
+18-Dec-23 15:08 PM - INFO- main11.py::354 - process - Create temporary directory
+18-Dec-23 15:08 PM - INFO- main11.py::46 - process_data - File reading done (Sheet1)
+18-Dec-23 15:08 PM - INFO- main11.py::364 - process - Calling function : process_data
+18-Dec-23 15:08 PM - INFO- main11.py::368 - process - Months Selected :['January', 'February']
+18-Dec-23 15:08 PM - INFO- main11.py::273 - get_employee_data_by_months - File reading done (Sheet2)
+18-Dec-23 15:08 PM - INFO- main11.py::374 - process - Calling function : get_employee_data_by_months
+18-Dec-23 15:08 PM - INFO- main11.py::544 - process - Saved and Closed Excel file
+18-Dec-23 15:08 PM - INFO- main11.py::564 - process - Removed temporary directory
+18-Dec-23 16:24 PM - INFO- main11.py::323 - index - Accessed the index route
+18-Dec-23 16:24 PM - INFO- main11.py::329 - process - Received POST request to process data
+18-Dec-23 16:24 PM - INFO- main11.py::354 - process - Create temporary directory
+18-Dec-23 16:24 PM - INFO- main11.py::46 - process_data - File reading done (Sheet1)
+18-Dec-23 16:24 PM - INFO- main11.py::364 - process - Calling function : process_data
+18-Dec-23 16:24 PM - INFO- main11.py::368 - process - Months Selected :['January']
+18-Dec-23 16:24 PM - INFO- main11.py::564 - process - Removed temporary directory
+18-Dec-23 16:24 PM - INFO- main11.py::329 - process - Received POST request to process data
+18-Dec-23 16:24 PM - INFO- main11.py::354 - process - Create temporary directory
+18-Dec-23 16:24 PM - INFO- main11.py::46 - process_data - File reading done (Sheet1)
+18-Dec-23 16:24 PM - INFO- main11.py::364 - process - Calling function : process_data
+18-Dec-23 16:24 PM - INFO- main11.py::368 - process - Months Selected :['January']
+18-Dec-23 16:24 PM - INFO- main11.py::273 - get_employee_data_by_months - File reading done (Sheet2)
+18-Dec-23 16:24 PM - INFO- main11.py::374 - process - Calling function : get_employee_data_by_months
+18-Dec-23 16:24 PM - INFO- main11.py::544 - process - Saved and Closed Excel file
+18-Dec-23 16:24 PM - INFO- main11.py::564 - process - Removed temporary directory
+18-Dec-23 16:26 PM - INFO- main11.py::323 - index - Accessed the index route
+18-Dec-23 16:26 PM - INFO- main11.py::329 - process_upload - Received POST request to process data
+18-Dec-23 16:26 PM - INFO- main11.py::354 - process_upload - Create temporary directory
+18-Dec-23 16:26 PM - INFO- main11.py::46 - process_data - File reading done (Sheet1)
+18-Dec-23 16:26 PM - INFO- main11.py::364 - process_upload - Calling function : process_data
+18-Dec-23 16:26 PM - INFO- main11.py::368 - process_upload - Months Selected :['January', 'February']
+18-Dec-23 16:26 PM - INFO- main11.py::273 - get_employee_data_by_months - File reading done (Sheet2)
+18-Dec-23 16:26 PM - INFO- main11.py::374 - process_upload - Calling function : get_employee_data_by_months
+18-Dec-23 16:26 PM - INFO- main11.py::544 - process_upload - Saved and Closed Excel file
+18-Dec-23 16:26 PM - INFO- main11.py::564 - process_upload - Removed temporary directory
